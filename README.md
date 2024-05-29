@@ -1,5 +1,5 @@
 npm init @eslint/config@latest
-npm i standard -D
+npm i standard eslint-config-standard -D 
 
 "eslintConfig": {
     "extends": [
